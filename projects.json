@@ -1,0 +1,16 @@
+{
+    "pokego.run": {
+      name: 'Pokego.run',
+      category: 'website',
+      url: 'https://pokego.run',
+      repoUrl: 'https://pokego.run',
+      image: '',
+      description: 'Pokego.run is a Pokemon spotting map where you can record Pokemon sightings for others to discover.'
+    },
+    "aurelia-auth": {
+      name: 'Aurelia Auth',
+      category: 'plugin',
+      repoUrl: 'https://github.com/paulvanbladel/aurelia-auth',
+      description: 'Aurelia Auth is a plugin for adding in authentication to your Aurelia applications.'
+    }
+}
