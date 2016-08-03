@@ -1,6 +1,7 @@
 [
     {
       "name": "Pokego.run",
+      "slug": "pokego-run",
       "category": "website",
       "url": "https://pokego.run",
       "repoUrl": "https://pokego.run",
@@ -9,6 +10,7 @@
     },
     {
       "name": "Aurelia Auth",
+      "slug": "aurelia-auth",
       "category": "plugin",
       "repoUrl": "https://github.com/paulvanbladel/aurelia-auth",
       "description": "Aurelia Auth is a plugin for adding in authentication to your Aurelia applications."
