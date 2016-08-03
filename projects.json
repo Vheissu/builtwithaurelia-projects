@@ -8,6 +8,15 @@
       "image": "pokego-run.png",
       "description": "Pokego.run is a Pokemon spotting map where you can record Pokemon sightings for others to discover."
     },
+	{
+		"name": "GistRun",
+		"slug": "gist-run",
+		"category": "website",
+		"url": "https://gist.run",
+		"repoUrl": "https://github.com/gist-run/gist-run",
+		"image": "gist-run.png",
+		"description": "GistRun was created by Aurelia core team member Jeremy Danyow, it runs and edits GitHub Gists (surprise). GistRun is built with Aurelia, uses the GitHub API and is hosted on GitHub pages. CloudFlare provides DNS and Heroku hosts GistRun's integration with GitHub's OAuth web application flow."
+	},
     {
       "name": "Aurelia Auth",
       "slug": "aurelia-auth",
