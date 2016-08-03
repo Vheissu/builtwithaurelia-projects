@@ -15,7 +15,15 @@
 		"url": "https://gist.run",
 		"repoUrl": "https://github.com/gist-run/gist-run",
 		"image": "gist-run.png",
-		"description": "GistRun was created by Aurelia core team member Jeremy Danyow, it runs and edits GitHub Gists (surprise). GistRun is built with Aurelia, uses the GitHub API and is hosted on GitHub pages. CloudFlare provides DNS and Heroku hosts GistRun's integration with GitHub's OAuth web application flow."
+		"description": "GistRun was created by Aurelia core team member <a href='https://www.danyow.net/' target='_blank'>Jeremy Danyow</a>, it runs and edits GitHub Gists (surprise). GistRun is built with Aurelia, uses the GitHub API and is hosted on GitHub pages. CloudFlare provides DNS and Heroku hosts GistRun's integration with GitHub's OAuth web application flow."
+	},
+	{
+		"name": "Markdown Editor",
+		"slug": "markdown-editor",
+		"category": "website",
+		"url": "http://vheissu.github.io/aurelia-book-examples/markdown-editor/",
+		"image": "markdown-editor.png",
+		"description": "A fully-featured Markdown Editor built using Aurelia in a few short hours. It is built as an example for Aurelia book author <a href='http://ilikekillnerds.com' target='_blank'>Dwayne Charrington's</a> upcoming book <a href='https://leanpub.com/aurelia-for-real-world-applications' target='_blank'>Aurelia For Real World Web Applications</a> in which you build this application and get the source code for it."
 	},
     {
       "name": "Aurelia Auth",
