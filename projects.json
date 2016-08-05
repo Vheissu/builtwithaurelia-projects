@@ -39,9 +39,25 @@
 	},
 	{
 		"name": "Aurelia Auth",
-	      	"slug": "aurelia-auth",
-	      	"category": "plugin",
-	      	"repoUrl": "https://github.com/paulvanbladel/aurelia-auth",
-	      	"description": "Aurelia Auth is a plugin for adding in authentication to your Aurelia applications."
+	     "slug": "aurelia-auth",
+	     "category": "plugin",
+	     "repoUrl": "https://github.com/paulvanbladel/aurelia-auth",
+	     "description": "Aurelia Auth is a plugin for adding in authentication to your Aurelia applications."
+	},
+	{
+		"name": "Aurelia Materialize Bridge",
+	     "slug": "aurelia-materialize-bridge",
+	     "category": "plugin",
+	     "url": "http://aurelia-ui-toolkits.github.io/demo-materialize/",
+	     "repoUrl": "https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge",
+	     "description": "Use Materialize components in your Aurelia application without writing any wrapper code. Powerful binding expressions directly in your markup"
+	},
+	{
+		"name": "Aurelia Syncfusion Bridge",
+	     "slug": "aurelia-syncfusion-bridge",
+	     "category": "plugin",
+	     "url": "http://aurelia-ui-toolkits.github.io/demo-syncfusion/",
+	     "repoUrl": "https://github.com/aurelia-ui-toolkits/aurelia-syncfusion-bridge",
+	     "description": "A set of Aurelia wrappers for Syncfusion Essential Studio for JavaScript."
 	}
 ]
