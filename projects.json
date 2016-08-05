@@ -75,5 +75,5 @@
 	     "url": "http://aurelia-ui-toolkits.github.io/demo-kendo/",
 	     "repoUrl": "https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge",
 	     "description": "A set of Aurelia wrappers for Kendo UI."
-	},
+	}
 ]
