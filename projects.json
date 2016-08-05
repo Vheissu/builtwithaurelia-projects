@@ -24,6 +24,14 @@
         "description": "Pokego.run is a Pokemon spotting map where you can record Pokemon sightings for others to discover."
     },
 	{
+		"name": "Aurelia Orm",
+	     "slug": "aurelia-orm",
+	     "category": "plugin",
+	     "url": "http://aurelia-orm.spoonx.org/",
+	     "repoUrl": "https://github.com/SpoonX/aurelia-orm",
+	     "description": "Aurelia Orm makes working with RESTful API's a breeze with features including; Entity definitions, Repositories, Associations, Validation and lots more."
+	},
+	{
 		"name": "Kchomp",
 		"slug": "kchomp",
 		"category": "website",
