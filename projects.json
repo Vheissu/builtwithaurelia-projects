@@ -38,6 +38,14 @@
 		"description": "A fully-featured Markdown Editor built using Aurelia in a few short hours. It is built as an example for Aurelia book author <a href='http://ilikekillnerds.com' target='_blank'>Dwayne Charrington's</a> upcoming book <a href='https://leanpub.com/aurelia-for-real-world-applications' target='_blank'>Aurelia For Real World Web Applications</a> in which you build this application and get the source code for it."
 	},
 	{
+		"name": "Aurelia Form",
+	     "slug": "aurelia-form",
+	     "category": "plugin",
+	     "url": "http://aurelia-form.spoonx.org/",
+	     "repoUrl": "https://github.com/SpoonX/aurelia-form",
+	     "description": "Leverage Aurelia's strengths, and create a standardized way of describing forms simply using objects and arrays."
+	},
+	{
 		"name": "Aurelia Auth",
 	     "slug": "aurelia-auth",
 	     "category": "plugin",
