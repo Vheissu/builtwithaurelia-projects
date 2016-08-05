@@ -61,11 +61,19 @@
 	     "description": "A set of Aurelia wrappers for Syncfusion Essential Studio for JavaScript."
 	},
 	{
+		"name": "Aurelia Leaflet",
+	     "slug": "aurelia-leaflet",
+	     "category": "plugin",
+	     "url": "http://benib.github.io/aurelia-leaflet/#/quickstart",
+	     "repoUrl": "https://github.com/benib/aurelia-leaflet",
+	     "description": "An Aurelia plugin for adding Leaflet maps into your Aurelia applications."
+	}
+	{
 		"name": "Aurelia Kendo UI Bridge",
 	     "slug": "aurelia-kendo-ui-bridge",
 	     "category": "plugin",
 	     "url": "http://aurelia-ui-toolkits.github.io/demo-kendo/",
 	     "repoUrl": "https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge",
 	     "description": "A set of Aurelia wrappers for Kendo UI."
-	}
+	},
 ]
