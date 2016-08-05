@@ -8,6 +8,13 @@
 		"description": "GistRun was created by Aurelia core team member <a href='https://www.danyow.net/' target='_blank'>Jeremy Danyow</a>, it runs and edits GitHub Gists (surprise). GistRun is built with Aurelia, uses the GitHub API and is hosted on GitHub pages. CloudFlare provides DNS and Heroku hosts GistRun's integration with GitHub's OAuth web application flow."
 	},
     {
+        "name": "Aurelia Hub",
+        "slug": "aurelia-hub",
+        "category": "website",
+        "url": "http://aurelia.io/hub.html",
+        "description": "The HUB is a place where Aurelia developers will come to learn, research, interact and gain access to all they need to be successful while building applications on the Aurelia platform. The hub itself is built on the Aurelia CLI (just like this site), however the source code is not currently public."
+    },
+    {
         "name": "Pokego.run",
         "slug": "pokego-run",
         "category": "website",
