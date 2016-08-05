@@ -67,7 +67,7 @@
 	     "url": "http://benib.github.io/aurelia-leaflet/#/quickstart",
 	     "repoUrl": "https://github.com/benib/aurelia-leaflet",
 	     "description": "An Aurelia plugin for adding Leaflet maps into your Aurelia applications."
-	}
+	},
 	{
 		"name": "Aurelia Kendo UI Bridge",
 	     "slug": "aurelia-kendo-ui-bridge",
