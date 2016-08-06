@@ -57,6 +57,7 @@
 		"name": "Aurelia Auth",
 	     "slug": "aurelia-auth",
 	     "category": "plugin",
+	     "url": "http://aureliauth.opinionatedapps.com/",
 	     "repoUrl": "https://github.com/paulvanbladel/aurelia-auth",
 	     "description": "Aurelia Auth is a plugin for adding in authentication to your Aurelia applications."
 	},
