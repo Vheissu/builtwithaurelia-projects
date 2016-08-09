@@ -12,7 +12,7 @@
 	    "category": "website",
 	    "url": "http://foursails.github.io/sentry/",
 	    "repoUrl": "https://github.com/Foursails/sentry",
-	    "description": "A dual-shell skeleton for handling a login screen. Created by <a href='http://twitter.com/TylerJPresley' target='_blank'>@MatthewJames</a>"
+	    "description": "A dual-shell skeleton for handling a login screen. Created by <a href='http://twitter.com/matthewjames' target='_blank'>@MatthewJames</a>"
 	},
 	{
 		"name": "GistRun",
@@ -38,6 +38,14 @@
         "image": "pokego-run.png",
         "description": "Pokego.run is a Pokemon spotting map where you can record Pokemon sightings for others to discover."
     },
+	{
+	    "name": "Bouncer",
+	    "slug": "bouncer",
+	    "category": "plugin",
+	    "url": "http://foursails.github.io/sentry/",
+	    "repoUrl": "https://github.com/Foursails/sentry",
+	    "description": "An out-of-the-box list filter value converter for Aurelia. Bouncer makes it easy to hook up controls to filter any list in Aurelia. Created by <a href='http://twitter.com/matthewjames' target='_blank'>@MatthewJames</a>"
+	},
 	{
 		"name": "Aurelia Orm",
 	     "slug": "aurelia-orm",
