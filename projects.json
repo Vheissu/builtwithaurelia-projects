@@ -1,5 +1,12 @@
 [
 	{
+	    "name": "Strengthen",
+	    "slug": "strengthen",
+	    "category": "website",
+	    "url": "https://app.strengthen.io",
+	    "description": "The best way to track your movements and work with your trainer. Created by <a href='http://twitter.com/TylerJPresley' target='_blank'>@TylerJPresley</a>"
+	},
+	{
 		"name": "GistRun",
 		"slug": "gist-run",
 		"category": "website",
