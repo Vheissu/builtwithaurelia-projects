@@ -7,6 +7,14 @@
 	    "description": "The best way to track your movements and work with your trainer. Created by <a href='http://twitter.com/TylerJPresley' target='_blank'>@TylerJPresley</a>"
 	},
 	{
+	    "name": "Sentry",
+	    "slug": "sentry",
+	    "category": "website",
+	    "url": "http://foursails.github.io/sentry/",
+	    "repoUrl": "https://github.com/Foursails/sentry",
+	    "description": "A dual-shell skeleton for handling a login screen. Created by <a href='http://twitter.com/TylerJPresley' target='_blank'>@MatthewJames</a>"
+	},
+	{
 		"name": "GistRun",
 		"slug": "gist-run",
 		"category": "website",
