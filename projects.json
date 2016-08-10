@@ -14,6 +14,14 @@
 	    "description": "An Aurelia application built using Webpack and Leaflet for exploring the movie poster for the upcoming Teenage Mutant Ninja Turtles movie."
 	},
 	{
+		"name": "Aurelia Table",
+	     "slug": "aurelia-table",
+	     "category": "plugin",
+	     "url": "https://tochoromero.github.com/aurelia-table",
+	     "repoUrl": "https://github.com/tochoromero/aurelia-table",
+	     "description": "Data Table plugin with many features out of the box. Created by <a href='http://twitter.com/tochoromero' target='_blank'>@tochoromero</a>"
+	},
+	{
 	    "name": "Strengthen",
 	    "slug": "strengthen",
 	    "category": "website",
