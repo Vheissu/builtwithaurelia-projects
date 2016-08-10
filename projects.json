@@ -1,10 +1,32 @@
 [
 	{
+	    "name": "FarmTrack",
+	    "slug": "farmtrack",
+	    "category": "website",
+	    "url": "https://farmtracksa.com",
+	    "description": "Real-time vehicle tracking for the agricultural industry, providing high quality business analytics at an affordable price."
+	},
+	{
+	    "name": "Teenage Mutant Ninja Turtles Mosaic Poster",
+	    "slug": "tmnt-mosaic-poster",
+	    "category": "website",
+	    "url": "http://www.teenagemutantninjaturtlesmovie.com/mosaicposter/",
+	    "description": "An Aurelia application built using Webpack and Leaflet for exploring the movie poster for the upcoming Teenage Mutant Ninja Turtles movie."
+	},
+	{
 	    "name": "Strengthen",
 	    "slug": "strengthen",
 	    "category": "website",
 	    "url": "https://app.strengthen.io",
 	    "description": "The best way to track your movements and work with your trainer. Created by <a href='http://twitter.com/TylerJPresley' target='_blank'>@TylerJPresley</a>"
+	},
+	{
+	    "name": "Datagrid",
+	    "slug": "datagrid",
+	    "category": "plugin",
+	    "url": "https://vevida.github.io/datagrid-demo/",
+	    "repoUrl": "https://github.com/Vevida/datagrid-demo",
+	    "description": "Proof-of-concept of an Aurelia datagrid that supports sorting, searching and custom rendering. Created by <a href='http://twitter.com/RomkeVdMeulen' target='_blank'>@RomkeVdMeulen</a>"
 	},
 	{
 	    "name": "Sentry",
